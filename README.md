@@ -2,8 +2,10 @@
 
 I am backend Golang/Python developer
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VitalyCone)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/vitalycone)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/vitalycone)  
 
+📫 How to reach me: shishenkov_vitaly@mail.ru
+
+<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VitalyCone)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/vitalycone)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/vitalycone)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitalyCone&layout=pie&size_weight=1&hide=ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **VitalyCone/VitalyCone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
